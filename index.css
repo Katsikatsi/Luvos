@@ -1,0 +1,51 @@
+html, body, header,#intro{
+  height: 100%;
+  width: 100%;
+  scroll-behavior: smooth;
+}
+#intro{
+  background: linear-gradient(to bottom, rgba(60, 60, 60, 0.39), rgba(60, 60, 60, 0.1)), url("../Images/musik.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navbar{
+  opacity: 0.5;
+}
+h1{
+  top: 56px;
+  right:430px;
+}
+.pope {
+  text-align: center;
+  margin-top: 45px;
+  font-size: 39px;
+}
+.invasion{
+  color: grey;
+  text-decoration: underline;
+  text-decoration-color: blue;
+}
+.give{
+  font-size: 26px;
+}
+.mask{
+  padding: 100px;
+}
+.pale{
+    font-size: 20px;
+}
+.gift{
+  font-size: 20px;
+}
+.made{
+  font-size: 20px;
+}
+#Contact .form .input-group .input-field{
+  border: 0;
+  border-bottom: 2px solid black;
+  border-bottom-width: small;
+}
+.col-sm-4 {
+  float: right;
+  display: inline-block;
+}
