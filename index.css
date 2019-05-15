@@ -4,9 +4,10 @@ html, body, header,#intro{
   scroll-behavior: smooth;
 }
 #intro{
-  background-image: url("wall.jpg");
+  background: linear-gradient(to bottom, rgba(60, 60, 60, 0.39), rgba(60, 60, 60, 0.1)), url("../Images/thumb.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+
 }
 .navbar{
   opacity: 0.5;
